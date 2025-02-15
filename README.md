@@ -34,26 +34,6 @@
 | Docker | Contenedores para despliegue |
 | GitHub Actions | Integración y despliegue continuo |
 
-## 📌 Instalación
-
-```bash
-# Clonar el repositorio
-$ git clone https://github.com/usuario/AquaFarm.git
-
-# Entrar en la carpeta del proyecto
-$ cd AquaFarm
-
-# Instalar dependencias en backend y frontend
-$ cd backend && npm install  # O pip install -r requirements.txt
-$ cd ../frontend && npm install
-
-# Ejecutar el servidor backend
-$ cd backend && npm start  # O python manage.py runserver
-
-# Ejecutar el frontend
-$ cd ../frontend && ng serve
-```
-
 ## 📜 Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para más detalles.
